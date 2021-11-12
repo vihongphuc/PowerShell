@@ -19,6 +19,8 @@
 - [ ] DonwloadFileFromSPO.ps1 ==> Download files in SPO by Pnp.PowerShell
 - [ ] SendEmails.ps1	==> Get list file in Local Folder and Send Email.
 - [ ] UploadFileToSPO.ps1	==> Upload files to SPO by Pnp.PowerShell
-- [ ] UploadFileToSPO_WebClient.ps1 ==> pload files to SPO by Microsoft.SharePoint.Client.dll
+- [ ] UploadFileToSPO_WebClient.ps1 ==> Upload files to SPO by Microsoft.SharePoint.Client.dll
+- [ ] GetSPODataLis_UpdateDB.ps1 ==> Download Datalist in SPO and CRUD to MSSQL DB (CRUD_Country.sql)
 > 
 > 
+
