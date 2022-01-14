@@ -21,6 +21,9 @@
 - [ ] UploadFileToSPO.ps1	==> Upload files to SPO by Pnp.PowerShell
 - [ ] UploadFileToSPO_WebClient.ps1 ==> Upload files to SPO by Microsoft.SharePoint.Client.dll
 - [ ] GetSPODataLis_UpdateDB.ps1 ==> Download Datalist in SPO and CRUD to MSSQL DB (CRUD_Country.sql)
-> 
-> 
+- [ ] Download File from the list on CSV files
+> - [X] Refer all materials in the folder: DownloadFileFromCSVList
+> - [X] pictures.csv ==> The resources file included all download URL.
+> - [X] DownloadImageOnCSV.ps1 ==> The main PowerShell Script to get list URL in CSV and downsload them.
+> - [X] DownloadImageOnCSV.bat ==> The execution file. We can downliclick on it to run of setting it by Windows schedule. In this, we have the 03 main configs setting: Csv Path file, Downloaded folder and PS1 path which are hard config in this or we can pass them in Schedule.
 
